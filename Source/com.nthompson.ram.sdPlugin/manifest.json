@@ -1,0 +1,37 @@
+{
+  "Actions": [
+    {
+      "Icon": "icon",
+      "Name": "RAM",
+      "States": [
+        {
+          "Image": "defaultImage",
+          "TitleAlignment": "middle",
+          "FontSize": "15"
+        }
+      ],
+      "SupportedInMultiActions": false,
+      "Tooltip": "This action displays the RAM/memory usage",
+      "UUID": "com.nthompson.ram.ram"
+    }
+  ],
+  "SDKVersion": 2,
+  "Author": "Noah Thompson",
+  "Category" : "Memory Metrics",
+  "CategoryIcon" : "pluginIcon",
+  "CodePathWin": "mem.exe",
+  "Description": "Displays the current RAM/memory usage.",
+  "Name": "RAM",
+  "Icon": "pluginIcon",
+  "Version": "1.0.0",
+  "OS": [
+    {
+        "Platform": "windows",
+        "MinimumVersion" : "10"
+    }
+  ],
+  "Software":
+    {
+        "MinimumVersion" : "4.1"
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "Description": "Displays the current RAM/memory usage.",
+  "Name": "RAM",
+  "com.nthompson.ram.ram": {
+    "Name": "RAM",
+    "Tooltip": "This action displays the RAM/memory usage"
+  }
+}
