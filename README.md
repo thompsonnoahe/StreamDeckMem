@@ -1,7 +1,7 @@
 ![GPU Utilization Icon](Source/com.nthompson.ram.sdPlugin/defaultImage.png)
 
 
-# Stream Deck GPU Utilization Plugin 🧠
+# Stream Deck RAM Utilization Plugin 🧠
 
 A plugin for monitoring the utilization of your RAM sticks on the Elgato Stream Deck. Windows only for now, Mac support coming soon!
 
